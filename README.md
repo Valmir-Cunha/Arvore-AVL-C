@@ -1,2 +1,2 @@
 # Arvore-Avl-C
-Implementação da rotações, inserção, remoção, altura do nó e exibição em ordem
+Implementação das rotações, inserção, remoção, altura do nó e exibição em ordem
